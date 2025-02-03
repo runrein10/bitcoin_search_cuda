@@ -1,1 +1,2 @@
 # bitcoin_search_cuda
+./bitcoin_search_cuda --keyspace 60000000000000000:6ffffffffffffffff 1BY8GQbnueYofwSuFAT3USAhGjPrkxDdW9
